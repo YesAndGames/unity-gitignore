@@ -49,6 +49,8 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+[Bb]uild/
+[Bb]uilds/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -234,6 +236,11 @@ obj/
 *.user
 *.unityproj
 *.booproj
+
+# ===================================== #
+# VS Code generated #
+# ===================================== #
+.vscode
 
 # ============ #
 # OS generated #
